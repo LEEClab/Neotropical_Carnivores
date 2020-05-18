@@ -8,9 +8,10 @@ The original data set is fully available as Supporting Information in the ECOLOG
 Updated versions of NEOTROPICAL CARVIVORES data set can be accessed in this NEOTROPICAL SERIES Github repository.
 
 ![](https://github.com/LEEClab/Neotropical_Carnivores/blob/master/Records_2020_04_22d.png)
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 This compilation was coordinated by Mariana Nagy-Reis/U of A [[mariana.nbreis@gmail.com](mailto:mariana.nbreis@gmail.com)], Julia Oshima/UNESP-Rio Claro [[juliaoshima@yahoo.com.br](mailto:juliaoshima@yahoo.com.br)], Claudia Kanda/UNESP-Rio Claro [[claudiakand@gmail.com](mailto:claudiakand@gmail.com)], Francesca Palmeira [[yagouaroundi@yahoo.com.br](mailto:yagouaroundi@yahoo.com.br)], and Fabiano Melo/UFG [[fabiano_melo@ufg.br](mailto:fabiano_melo@ufg.br)], under the supervision of Ronaldo Morato /CENAP&ICMBio [<ronaldo.morato@icmbio.gov.br>], **Mauro Galetti/UNESP-Rio Claro** 
 and **Milton Ribeiro/UNESP-Rio Claro**.
 
-##Data collection started in April 2018. 
-##Manuscript was accepted in May 2020.
+**Data collection started in April 2018. 
+**Manuscript was accepted in May 2020.
