@@ -7,6 +7,8 @@ Mammalian carnivores are considered a key group in maintaining ecological health
 The original data set is fully available as Supporting Information in the ECOLOGY repository.
 Updated versions of NEOTROPICAL CARVIVORES data set can be accessed in this NEOTROPICAL SERIES Github repository.
 
+[![DOI](https://zenodo.org/badge/238237065.svg)](https://zenodo.org/badge/latestdoi/238237065)
+
 ![](https://github.com/LEEClab/Neotropical_Carnivores/blob/master/Records_2020_04_22d.png)
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
